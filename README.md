@@ -1,3 +1,3 @@
 # Android-Projects
 
-This repository contaains my Android projects.
+This repository contains my Android projects.
